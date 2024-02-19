@@ -2,6 +2,8 @@
 
 React + Vite
 
+deployed: https://memegenerator-daisy.netlify.app
+
 used:
 
 - conditional rendering
